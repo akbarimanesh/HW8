@@ -1,0 +1,15 @@
+E:\maktab_c#\HW\HW8\HW8\HW8\bin\Debug\net6.0\HW8.exe
+E:\maktab_c#\HW\HW8\HW8\HW8\bin\Debug\net6.0\HW8.deps.json
+E:\maktab_c#\HW\HW8\HW8\HW8\bin\Debug\net6.0\HW8.runtimeconfig.json
+E:\maktab_c#\HW\HW8\HW8\HW8\bin\Debug\net6.0\HW8.dll
+E:\maktab_c#\HW\HW8\HW8\HW8\bin\Debug\net6.0\HW8.pdb
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.csproj.AssemblyReference.cache
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.AssemblyInfoInputs.cache
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.AssemblyInfo.cs
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.csproj.CoreCompileInputs.cache
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.dll
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\refint\HW8.dll
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.pdb
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\HW8.genruntimeconfig.cache
+E:\maktab_c#\HW\HW8\HW8\HW8\obj\Debug\net6.0\ref\HW8.dll
